@@ -19,5 +19,5 @@ A harmonic space pipeline for detecting the 21 cm HI intensity mapping signal th
 
     ├── cov_matrix.ipynb   # Plot da matriz solicitado pelo Prof. Rogério
     
-    └── figs_jcap.ipynb    # Geração dos gráficos de SNR e b² do artigo
+    └── figs_jcap.ipynb    # Geração dos gráficos de SNR, b² e etc. do artigo
     
